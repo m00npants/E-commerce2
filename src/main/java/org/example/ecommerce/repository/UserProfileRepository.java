@@ -1,6 +1,6 @@
 package com.example.ecommerce.repository;
 
-import com.example.ecommerce.domain.UserProfile;
+import org.example.ecommerce.domain.UserProfile;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

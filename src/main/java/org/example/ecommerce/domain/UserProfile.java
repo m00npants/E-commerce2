@@ -1,4 +1,4 @@
-package com.example.ecommerce.domain;
+package org.example.ecommerce.domain;
 
 import jakarta.persistence.*;
 
