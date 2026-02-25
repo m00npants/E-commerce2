@@ -22,5 +22,5 @@ public class UserProfile {
     @OneToOne(mappedBy = "profile", fetch = FetchType.LAZY)
     private Customer customer;
 
-    // getters/setters
+
 }
