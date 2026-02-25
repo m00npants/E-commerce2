@@ -19,5 +19,5 @@ public class Address {
     @Column(name = "zip_code", nullable = false)
     private String zipCode;
 
-    // getters/setters
+
 }

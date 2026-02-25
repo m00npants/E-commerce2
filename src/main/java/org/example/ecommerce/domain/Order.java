@@ -1,13 +1,10 @@
 package org.example.ecommerce.domain;
 
 import jakarta.persistence.*;
-
 import java.time.Instant;
-import java.time.LocalDate;
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
+
 
 @Entity
 @Table(name = "orders")
